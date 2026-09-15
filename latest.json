@@ -1,0 +1,10 @@
+{
+  "product": "Pi.Carretero",
+  "component": "android",
+  "version": "1.4.1",
+  "versionCode": 4,
+  "channel": "stable",
+  "release_notes": "Versión inicial del sistema de actualización automática.",
+  "artifact_url": "",
+  "sha256": ""
+}
