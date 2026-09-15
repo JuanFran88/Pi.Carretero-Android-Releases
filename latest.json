@@ -2,9 +2,9 @@
   "product": "Pi.Carretero",
   "component": "android",
   "version": "1.4.1",
-  "versionCode": 4,
+  "versionCode": 5,
   "channel": "stable",
-  "release_notes": "Primera versión preparada para el sistema de actualización automática de Pi.Carretero Android.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Android-Releases/releases/download/v1.4.1/pi-carretero-android-1.4.1.apk",
-  "sha256": "aa64ec57fc4e02a150e8a06689e5f84a97790c4b6db0d2761531710a97269a06"
+  "release_notes": "Mejora el sistema de actualización automática de Pi.Carretero Android.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Android-Releases/releases/download/v1.4.1-build5/pi-carretero-android-1.4.1-build5.apk",
+  "sha256": "95bd74a6509cf26c31375194107b30b74e13ba88fe3c829aa98a6ce0e896927b"
 }
