@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "android",
-  "version": "1.4.1",
-  "versionCode": 5,
+  "version": "1.4.2",
+  "versionCode": 6,
   "channel": "stable",
-  "release_notes": "Mejora el sistema de actualización automática de Pi.Carretero Android.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Android-Releases/releases/download/v1.4.1-build5/pi-carretero-android-1.4.1-build5.apk",
-  "sha256": "95bd74a6509cf26c31375194107b30b74e13ba88fe3c829aa98a6ce0e896927b"
+  "release_notes": "Añadida la monitorización de alimentación, historial de eventos de bajo voltaje y throttling, soporte de interfaz para INA219/INA226, mejoras del sistema de actualización y función para compartir archivos con Pi.Carretero.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Android-Releases/releases/download/v1.4.2-build6/pi-carretero-android-1.4.2-build6.apk",
+  "sha256": "ef0593a3c0c9346c383175a3af6572502ae8be1d4ea942df4110a7da1eaf4d4f"
 }
